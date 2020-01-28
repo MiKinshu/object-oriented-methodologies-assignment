@@ -1,0 +1,30 @@
+1
+12 12
+h3z4a c8lfq cyclistRoad 44qzj 78 5 3
+oelhb c8lfq lakes ped0n 64 1 3 1 8
+oelhb sfy19 swamps t0vov 62 6 1
+5tlonnzuzeeygxlovrkyam2w7vdes sfy19 motorway bmtf2 74 21 758 1 4 39
+oelhb c8lfq motorway jtvi2 60 29 796 1 2 759
+oelhb sfy19 pedestrianRoad 6uvq4 87 3 2 38 1232
+oelhb h3z4a swamps i72ia 56 5 1
+h3z4a c8lfq pedestrianRoad ydhaf 94 4 8 2 1234
+sfy19 oelhb pedestrianRoad 753js 60 4 8 17 1129
+h3z4a sfy19 motorway 6v5xf 12 25 363 1 1 69
+sfy19 c8lfq pedestrianRoad sb6x8 22 4 1 95 708
+c8lfq oelhb lakes kfe7n 73 1 3 5 15
+h3z4a c8lfq boara zc7rt 1 trafficLight 2
+5tlonnzuzeeygxlovrkyam2w7vdes sfy19 1dkx1 2imub 5 trafficLight 4
+h3z4a c8lfq t9ivv 2hs8i 4 bench 1 a9nqa
+oelhb h3z4a ca6pw wzy5h 4 shop lniuw food 3 2
+oelhb h3z4a cqo2f wu89w 5 trafficLight 7
+oelhb sfy19 yfyd7 zktw1 1 bench 1 zw56a
+oelhb sfy19 h4qvm icsg5 6 washroom 464 2
+oelhb h3z4a g0904 pjupq 2 shop ywlck clothing 4 4
+h3z4a c8lfq 775qr 6whyk 0 bench 4 srjpa
+sfy19 oelhb g62c2 omai3 8 shop d4q16 others 5 4
+sfy19 oelhb cs03y 1lh0q 5 shop elnv2 clothing 3 1
+oelhb sfy19 3ubcu 8lq49 4 washroom 338 5
+3
+t9ivv
+h4qvm
+ca6pw

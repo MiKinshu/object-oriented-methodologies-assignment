@@ -1,0 +1,28 @@
+Question 1: 
+i. Load input1.txt
+ii. Delete edge DE
+iii. Delete edge ED
+iv. Delete vertex E
+v. Change cost of BD to 10
+vi. Change cost of DB to 10
+vii. Add vertex F with coordinates 55 25
+viii. Add edge FB with cost 9
+ix. Add edge BF with cost 9
+x. Add edge FC with cost 3
+xi. Add edge CF with cost 3
+xii. Add edge FD with cost 2
+xiii. Add edge DF with cost 2 
+xiv. Search a path from A to D (A -> B -> C -> F -> D)
+xv. Export the graph (output given as output1)
+
+Question 2
+reload input1.txt with number of vertices as 10 instead of 5
+
+Question 3
+Produce the graph sample graph 2 and search for a path from A to D (A -> B-> C->F->D)
+
+Question 4
+Simulate path from A to D
+
+Question 5
+Simulate 4 paths (i) A to D using a square, (ii) D to A using '+', (iii) C to D using 'X', (iv) C to A using triangle. 

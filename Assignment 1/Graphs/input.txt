@@ -1,0 +1,12 @@
+if(o1.getFromVertex().equals(o2.getFromVertex())) {
+                    if (Double.compare(abs(o1.getCost() - o2.getCost()), 0.0001) < 0)
+                        return o1.getRoad().compareTo(o2.getRoad());
+                    else {
+                        if (o1.getCost() > o2.getCost())
+                            return 1;
+                        else
+                            return -1;
+                    }
+                }
+                else
+                    return o1.getFromVertex().compareTo(o2.getFromVertex());
