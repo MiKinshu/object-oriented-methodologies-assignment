@@ -1,4 +1,4 @@
-#Javafx
+# Javafx
 
 This folder contains code for everything asked in the questions given below. To run these codes you must have Javafx libraries installed.
 
@@ -17,11 +17,11 @@ This folder contains code for everything asked in the questions given below. To 
 	* Export graph in the same format in a text file (vertices sorted by name, edges sorted from the from vertex and then to vertex)
 	* Take source and goal vertex name as input and print the path in a text field.
 
-![](Assignment02/LearnGUI/sol.gif)
+![](LearnGUI/sol.gif)
 
 2. In question 1, use Dialogue Boxes on an illegal input. Use exception handling.
 
-![](Assignment02/Q2/sol.gif)
+![](Q2/sol.gif)
 
 3. In question 1, allow the user to click to add vertices, select and press a key to delete vertices,
 drag to move vertices in the vertex mode. In a similar edge move, allow to draw edges by
@@ -29,18 +29,18 @@ mouse, select and delete edges by a key. Use a suitable interface to add and alt
 Display the graph. Show the output of the Dijkstra’s algorithm on queried source and goal on
 the graph itself.
 
-![](Assignment02/Q3/sol.gif)
+![](Q3/sol.gif)
 
 4. In question 3, instead of showing the path by a line, animate a circle travelling on the output
 path to show the path. The animation should continuously restart itself.
 
-![](Assignment02/Q4/sol.gif)
+![](Q4/sol.gif)
 
 5. In question 4, let the user choose the shape instead of a circle to be used for animation (give
 options of square, plus, cross and triangle). Also allow the user to animate a number of paths,
 each computed using Dijkstra’s algorithm as a query. Use inheritance to handle shapes.
 
-![](Assignment02/Q5/sol.gif)
+![](Q5/sol.gif)
 
 ## Sample Text Input File (Used in Q1)
 
